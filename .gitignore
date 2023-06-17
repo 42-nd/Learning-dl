@@ -1,2 +1,8 @@
 
 *.csv
+reviews/negative/neg_1.txt
+reviews/negative/neg_2.txt
+reviews/negative/neg_3.txt
+reviews/positive/pos_1.txt
+reviews/positive/pos_2.txt
+reviews/positive/pos_3.txt
